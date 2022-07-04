@@ -3,3 +3,6 @@ ass1
 fun ass1() {}
 
 fun branchLocMX1() {}
+
+fun branchLocMX2() {}
+
