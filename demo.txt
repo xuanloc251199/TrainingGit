@@ -1,3 +1,5 @@
 ass1
 
 fun ass1() {}
+
+fun branchLocMX1() {}
